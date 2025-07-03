@@ -1,0 +1,31 @@
+.hero {
+    text-align: center;
+    padding: 6rem 2rem;
+    background-image: url('https://source.unsplash.com/1600x400/?nature,technology');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    position: relative;
+}
+
+.hero::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.4);
+    z-index: 0;
+}
+
+.heroContent {
+    position: relative;
+    z-index: 1;
+}
+
+.heroTitle {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.heroSubtitle {
+    font-size: 1.2rem;
+}

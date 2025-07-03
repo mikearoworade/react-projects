@@ -15,3 +15,13 @@
 - Lists with .map()
 - Event handling
 - Basic styling
+
+## Styling in React
+### Project 3 - [Themed Landing Page](./landing-page)
+- Dark/Light theme toggle
+- Hero section, features, and footer
+- Styled using:
+  - Inline styles
+  - CSS Modules
+  - Styled Components
+  - Tailwind CSS
