@@ -7,3 +7,11 @@
 - Props and prop drilling
 - Component composition
 - Basic styling (CSS or inline)
+
+## React Core Features – Hooks & Rendering
+### Project 2 - [Task Tracker App](./task-tracker)
+- useState for managing state
+- Conditional rendering (?, &&)
+- Lists with .map()
+- Event handling
+- Basic styling
