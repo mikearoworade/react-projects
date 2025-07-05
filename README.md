@@ -25,3 +25,12 @@
   - CSS Modules
   - Styled Components
   - Tailwind CSS
+
+## State Management
+### Project 4 - [Auth App](./auth-app)
+- AuthContext + useAuth hook
+- Manage a user state (null or { name: … })
+- login() and logout() functions
+- useAuth() hook for clean access
+- Navbar: shows Login/Logout
+- Dashboard: shows Welcome, user
