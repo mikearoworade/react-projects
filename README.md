@@ -34,3 +34,7 @@
 - useAuth() hook for clean access
 - Navbar: shows Login/Logout
 - Dashboard: shows Welcome, user
+
+## Advanced State Management
+### Sample project with useReducer [Todo App 1](./todo-app)
+### Sample project with zustand [Todo App 2](./todo-app2)
