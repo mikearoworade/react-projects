@@ -38,4 +38,5 @@
 ## Advanced State Management
 ### Sample project with useReducer [Todo App 1](./todo-app)
 ### Sample project with zustand [Todo App 2](./todo-app2)
-### Sample project with zustand [Todo App 3](./todo-app3)
+### Sample project with Redux Toolkit [Todo App 3](./todo-app3)
+### Sample project with Redux Toolkit Query [Data Fetching](./redux-data-fetching)
