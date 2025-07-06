@@ -40,3 +40,8 @@
 ### Sample project with zustand [Todo App 2](./todo-app2)
 ### Sample project with Redux Toolkit [Todo App 3](./todo-app3)
 ### Sample project with Redux Toolkit Query [Data Fetching](./redux-data-fetching)
+### Project 5 - [E-Commerce Cart](./ecommerce-cart)
+- Global cart state
+- Add & remove items
+- Quantity adjustment
+- See cart contents anywhere in app
